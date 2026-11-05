@@ -1,0 +1,22 @@
+NAME
+PIRA Simple Translate
+
+SHORT DESCRIPTION
+Translate selected webpage text with a convenient popup and your choice of translation provider.
+
+FULL DESCRIPTION
+Understand foreign-language content while browsing. Select text on a webpage to view a translation in a compact popup, or open the extension to translate text manually.
+
+FEATURES
+- Translate selected text on webpages.
+- Choose source language or automatic detection where supported.
+- Select target language.
+- Copy translated text.
+- Listen using browser text-to-speech where a voice is available.
+- Configure Google Web Translation, Google Cloud Translation, DeepL, or a compatible LibreTranslate server.
+- Customize theme, modifier-key behavior and excluded domains.
+
+PRIVACY
+When you request translation, selected or entered text is sent to the translation provider you configured. Review that provider's privacy terms before translating confidential information. Provider credentials are stored in local extension storage. See the published privacy policy for details.
+
+Developed by Pira Code.
